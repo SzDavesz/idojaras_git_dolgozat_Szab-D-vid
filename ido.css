@@ -78,3 +78,7 @@ tr td{
 	font-weight: bold;
 	text-decoration: none;
 }
+dt{
+	color: #243f84;
+	text-decoration: underline;
+}

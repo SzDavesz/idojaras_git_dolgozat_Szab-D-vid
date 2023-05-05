@@ -61,4 +61,10 @@ h1, h2{
 table{
 	border-collapse: collapse;
 	margin: 0 auto;
+	padding: 0;
+	width: 80%;
+}
+tr td{
+
+	border: 3px solid black;
 }
